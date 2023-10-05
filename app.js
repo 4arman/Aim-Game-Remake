@@ -125,7 +125,7 @@ resBtn.addEventListener('click', () => {
     score.textContent = 0
     fourthBlock.style = 'display: none'
     colorBlock.style = `
-    transform: translate(0, -280px);
+    transform: translate(0, -300px);
     display: flex;
     opacity: 1;
     transition: 0;`
